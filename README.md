@@ -1,4 +1,4 @@
-# Extraidor de Telefones do Google Maps (SerpApi)
+# Extrator de Telefones do Google Maps (SerpApi)
 
 Este é um script simples em Python desenvolvido para ler o arquivo JSON de resultados extraídos do Google Maps via SerpApi e formatar os dados de forma limpa.
 
