@@ -1,0 +1,964 @@
+
+{
+    "search_metadata": {
+        "id": "6ac6e16cf9bee93c064fbd06",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/ayBSuUDWWHYJVn-hZOFbLPaUmz8wcYRBvYjQPTHofXw/6ac6e16cf9bee93c064fbd06.json",
+        "markdown_endpoint": "https://serpapi.com/searches/ayBSuUDWWHYJVn-hZOFbLPaUmz8wcYRBvYjQPTHofXw/6ac6e16cf9bee93c064fbd06.md",
+        "created_at": "2026-10-08 00:18:52 UTC",
+        "processed_at": "2026-10-08 00:18:52 UTC",
+        "google_maps_url": "https://www.google.com/maps/search/oficinas+mecanicas+no+bairro+Centro+piracicaba/@-22.725,-47.6476,14z/data=!3m1!4b1!4m2!2m1!6e5?hl=en",
+        "raw_html_file": "https://serpapi.com/searches/ayBSuUDWWHYJVn-hZOFbLPaUmz8wcYRBvYjQPTHofXw/6ac6e16cf9bee93c064fbd06.html",
+        "prettify_html_file": "https://serpapi.com/searches/ayBSuUDWWHYJVn-hZOFbLPaUmz8wcYRBvYjQPTHofXw/6ac6e16cf9bee93c064fbd06.prettify",
+        "total_time_taken": 1.3
+    },
+    "search_parameters": {
+        "engine": "google_maps",
+        "type": "search",
+        "q": "oficinas mecanicas no bairro Centro piracicaba",
+        "ll": "@-22.725,-47.6476,14z",
+        "google_domain": "google.com",
+        "hl": "en",
+        "start": 41
+    },
+    "search_information": {
+        "local_results_state": "Results for exact spelling",
+        "query_displayed": "oficinas mecanicas no bairro Centro piracicaba"
+    },
+    "local_results": [
+        {
+            "position": 1,
+            "title": "Borracharia & Auto Center - PIT STOP",
+            "place_id": "ChIJpWO9xAoxxpQRdOOdzcsFIqc",
+            "data_id": "0x94c6310ac4bd63a5:0xa72205cbcd9de374",
+            "data_cid": "12043194726428304244",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x94c6310ac4bd63a5%3A0xa72205cbcd9de374&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x94c6310ac4bd63a5%3A0xa72205cbcd9de374&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+                "latitude": -22.7193208,
+                "longitude": -47.6473886
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJpWO9xAoxxpQRdOOdzcsFIqc",
+            "provider_id": "/g/11g68_0bhg",
+            "rating": 4.7,
+            "reviews": 23,
+            "type": "Auto repair shop",
+            "types": [
+                "Auto repair shop",
+                "Tire repair shop",
+                "Wheel alignment service"
+            ],
+            "address": "Av. Armando de Salles Oliveira, 777 - Centro, Piracicaba - SP, 13400-005, Brazil",
+            "country": "Brazil",
+            "open_state": "Closes soon · 10 PM · Opens 6 AM Thu",
+            "hours": "Closes soon · 10 PM · Opens 6 AM Thu",
+            "operating_hours": {
+                "wednesday": "6 AM–10 PM",
+                "thursday": "6 AM–10 PM",
+                "friday": "6 AM–10 PM",
+                "saturday": "6 AM–10 PM",
+                "sunday": "6 AM–10 PM",
+                "monday": "6 AM–10 PM",
+                "tuesday": "6 AM–10:30 PM"
+            },
+            "phone": "+55 19 99723-6034",
+            "extensions": [
+                {
+                    "accessibility": [
+                        "Wheelchair accessible entrance",
+                        "Wheelchair accessible parking lot"
+                    ]
+                }
+            ],
+            "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmP0tjExroY9Vuo-IKQIKkWy4ik57Q16FWsk8WKp-7ve6aAQL1A1L2vYne7yaOsjICiwdXrUC0nWqRRgOsJU8vbD-6tPAapSATgqYcOfDgP2egA8BYQIPs61DA4jO3apf5UBtinD=w1000-h1000-c-n",
+            "serpapi_thumbnail": "https://serpapi.com/images/url/57RR3HicHcRbjoIwFADQFVVaH4AmfhTQBDEBHBH5rLWWl23lVtQVzhpmN5N4Ps7fb22tgZXj9PVsIrWWvXiCGLhWVig74fruyIEBIA4ODUfT3zNs28170NXy9NQoTvI46crPvOkWXk7cbQmdXyYGeaNwGc33hJL9dKyU8D4shTYOm9f1PBQhVuXjcJAp7Ap_vETItRll5oce5aPi6S2S2VRI6gdVHmfgkojO23TGzG1RBLZR0fpFMMao_s6R-gdrjUQX"
+        },
+        {
+            "position": 2,
+            "title": "Oficina Mecânica Dumo Diesel",
+            "place_id": "ChIJDycpwPswxpQRp6RZPetdc7Q",
+            "data_id": "0x94c630fbc029270f:0xb4735deb3d59a4a7",
+            "data_cid": "13002839814076736679",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x94c630fbc029270f%3A0xb4735deb3d59a4a7&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x94c630fbc029270f%3A0xb4735deb3d59a4a7&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+                "latitude": -22.7451886,
+                "longitude": -47.6514763
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJDycpwPswxpQRp6RZPetdc7Q",
+            "provider_id": "/g/1w666j83",
+            "rating": 4.8,
+            "reviews": 9,
+            "unclaimed_listing": true,
+            "type": "Auto repair shop",
+            "types": [
+                "Auto repair shop",
+                "Car repair and maintenance service"
+            ],
+            "address": "Av. Conselheiro Costa Pinto, 1511 - Paulicéia, Piracicaba - SP, 13401-210, Brazil",
+            "country": "Brazil",
+            "phone": "+55 19 3432-2574",
+            "extensions": [
+                {
+                    "accessibility": [
+                        "Wheelchair accessible entrance",
+                        "Wheelchair accessible parking lot"
+                    ]
+                }
+            ],
+            "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=S9lLuo_LtsNFoTqWTnwkKg&cb_client=search.gws-prod.grass&w=80&h=92&yaw=25.154339&pitch=6.7016&thumbfov=100",
+            "serpapi_thumbnail": "https://serpapi.com/images/url/b4NQbXicHc3NDcIgGADQbbjJj7XVmhBvXmy82MRjQykCkRaEr0Uncia30bjAe5-3AQhpT0iCqBQsVuVgn8qlVRBYe6-dEsEmLP1IFkbAzGM_CesOQUzeDvxSu2b2XQPpfPTt49pO-X7SSPaddFZNwJMSURqs80-MfsA6ipRQ5juKDK_X6CUyX5eYlZuiqFGwIA2v8JayCv2zm184o_QLWi88Fg"
+        },
+        {
+            "position": 3,
+            "title": "Black Motors Centro Automotivo | Pneus em Piracicaba | Loja de Pneus | Troca de Óleo",
+            "place_id": "ChIJrx1ogl0xxpQR6373TWFsa-I",
+            "data_id": "0x94c6315d82681daf:0xe26b6c614df77eeb",
+            "data_cid": "16315253240255446763",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x94c6315d82681daf%3A0xe26b6c614df77eeb&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x94c6315d82681daf%3A0xe26b6c614df77eeb&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+                "latitude": -22.7253684,
+                "longitude": -47.6336527
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJrx1ogl0xxpQR6373TWFsa-I",
+            "provider_id": "/g/11sq9kz3rl",
+            "rating": 4.8,
+            "reviews": 160,
+            "type": "Auto repair shop",
+            "types": [
+                "Auto repair shop",
+                "Auto spring shop",
+                "Brake shop",
+                "Mechanic",
+                "Oil change service",
+                "Tire shop",
+                "Wheel alignment service"
+            ],
+            "address": "Av. Carlos Martins Sodero, 44 - Vila Independencia, Piracicaba - SP, 13418-385, Brazil",
+            "country": "Brazil",
+            "open_state": "Closed · Opens 8 AM Thu",
+            "hours": "Closed · Opens 8 AM Thu",
+            "operating_hours": {
+                "wednesday": "8 AM–6 PM",
+                "thursday": "8 AM–6 PM",
+                "friday": "8 AM–6 PM",
+                "saturday": "8 AM–12 PM",
+                "sunday": "Closed",
+                "monday": "8 AM–6 PM",
+                "tuesday": "8 AM–6 PM"
+            },
+            "phone": "+55 19 3422-6981",
+            "website": "https://blackmotors.com.br/",
+            "extensions": [
+                {
+                    "accessibility": [
+                        "Wheelchair accessible entrance",
+                        "Wheelchair accessible parking lot",
+                        "Wheelchair accessible restroom",
+                        "Wheelchair accessible seating"
+                    ]
+                }
+            ],
+            "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmNZkob1ZuTq5KNyeKrHL4Dz-yCA1tgk8pM2FDMRJWHS0SFjjDEITQomebTy7x8-chd-Lo1qjCI_8QNA-ZvQDimmcDvw7Rnngk4rqfeIKQ7AKoxGpTBHv8hQUAhNTIooOJBbwwlv=w1000-h1000-c-n",
+            "serpapi_thumbnail": "https://serpapi.com/images/url/_kcZh3icHcRRToMwGADgE3WAY4GY-NDRTRgbpluNCS9Gam0F2h9oV4YX3Bm8jYnfw_d7V84N9jEIerVeSQDZi6sVEwfjhHErDjqQ04e1iNsAZ37odVV30ET1lY2bslpEOeXHmPygJcORk106nB725HQ-vOWX8LJvW7IrGAUtGrYktxRx9YmOEI1tVryntMKo9pR8a82Jn5OzMbKLp_FLFCVNcAm354Ftc58q-opVxQqAl8O2mefeP81RGIZI_c-R-QOZiEVj"
+        },
+        {
+            "position": 4,
+            "title": "MAMA AUTO MECÂNICA ESPECIALISTA CÂMBIO AUTOMATICO",
+            "place_id": "ChIJsZ5Ph_0wxpQR4VxU5Bpq64c",
+            "data_id": "0x94c630fd874f9eb1:0x87eb6a1ae4545ce1",
+            "data_cid": "9794038478379703521",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x94c630fd874f9eb1%3A0x87eb6a1ae4545ce1&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x94c630fd874f9eb1%3A0x87eb6a1ae4545ce1&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+                "latitude": -22.7607967,
+                "longitude": -47.676724799999995
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJsZ5Ph_0wxpQR4VxU5Bpq64c",
+            "provider_id": "/g/11c3111mfz",
+            "rating": 4.8,
+            "reviews": 17,
+            "type": "Car repair and maintenance service",
+            "types": [
+                "Car repair and maintenance service"
+            ],
+            "address": "R. João Zilio, 431 - Piazza Itália, Piracicaba - SP, 13402-218, Brazil",
+            "country": "Brazil",
+            "open_state": "Closed · Opens 8 AM Thu",
+            "hours": "Closed · Opens 8 AM Thu",
+            "operating_hours": {
+                "wednesday": "8 AM–6 PM",
+                "thursday": "8 AM–6 PM",
+                "friday": "8 AM–6 PM",
+                "saturday": "8 AM–1 PM",
+                "sunday": "Closed",
+                "monday": "8 AM–6 PM",
+                "tuesday": "8 AM–6 PM"
+            },
+            "phone": "+55 19 97405-2502",
+            "website": "https://bio.site/MamaAutomecanica?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAb21jcAPfSElleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA81NjcwNjczNDMzNTI0MjcAAaefa3ysVuuuN00VtWCj0vKFm4gYvUN9JFVCo6cuvJMrKvUzx-9tCr90VLGNtg_aem_IOHJul2vFsM0_dje98f9Cg",
+            "extensions": [
+                {
+                    "accessibility": [
+                        "Wheelchair accessible entrance",
+                        "Wheelchair accessible parking lot"
+                    ]
+                }
+            ],
+            "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmOBxlEEpcFwmBhVU4CbA2hjg0nTsz0LyKue4wmShwrVngJhOsqoA5evyu0ujmYefjsLIQBWT_KKcYe2Up6vGEXC5qheNn6-0BecAHjVmKO2RESJiKxFqCM0hrMPOpDTQpQQlhhP8x-yzFo=w1000-h1000-c-n",
+            "serpapi_thumbnail": "https://serpapi.com/images/url/aRgK73icHcTLboJAFADQLxqZ4iOmSReA0OpoEUVaV8ZObudK5gXD0490379p4lmcvwc2jXWvnidxOhHGCAmtg5ob3YBuJtwoT9RX5wh3XhB1Vqo0HGQcW570KsTiNIt-Ah9LQXXu7nQ7shZmvTpiXxdabDB1lQnm0I0tbUt1ht_SbddZ-JVfGONn8E920b3H39G8QvjUC0JD4MFHWSiW-of4uLmxIamiHcV6t0_tKs9slknE_XIg4z0xb_0LpZTgc070P1HwSOY"
+        },
+        {
+            "position": 5,
+            "title": "Auto Mecânica Blumer",
+            "place_id": "ChIJba9YauczxpQRWxPSX8rVbGA",
+            "data_id": "0x94c633e76a58af6d:0x606cd5ca5fd2135b",
+            "data_cid": "6948163390293545819",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x94c633e76a58af6d%3A0x606cd5ca5fd2135b&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x94c633e76a58af6d%3A0x606cd5ca5fd2135b&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+                "latitude": -22.6992871,
+                "longitude": -47.6664056
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJba9YauczxpQRWxPSX8rVbGA",
+            "provider_id": "/g/1tdn9shr",
+            "rating": 4.8,
+            "reviews": 31,
+            "type": "Car repair and maintenance service",
+            "types": [
+                "Car repair and maintenance service"
+            ],
+            "address": "R. Domingos Mazzonetto, 182 - Algodoal, Piracicaba - SP, 13405-411, Brazil",
+            "country": "Brazil",
+            "open_state": "Closed · Opens 8 AM Thu",
+            "hours": "Closed · Opens 8 AM Thu",
+            "operating_hours": {
+                "wednesday": "8 AM–6 PM",
+                "thursday": "8 AM–6 PM",
+                "friday": "8 AM–6 PM",
+                "saturday": "Closed",
+                "sunday": "Closed",
+                "monday": "8 AM–6 PM",
+                "tuesday": "8 AM–6 PM"
+            },
+            "phone": "+55 19 3421-1372",
+            "extensions": [
+                {
+                    "accessibility": [
+                        "Wheelchair accessible entrance",
+                        "Wheelchair accessible parking lot"
+                    ]
+                }
+            ],
+            "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=T3O_u90viBaN3IlQi3UXIw&cb_client=search.gws-prod.grass&w=80&h=92&yaw=23.341942&pitch=0&thumbfov=100",
+            "serpapi_thumbnail": "https://serpapi.com/images/url/AGYCFXicHc1RCsIgGADg2_iWurmHFkjQ216KoKC38c9Mf3BT1Gldp1t1m6ILfN_nbXMOacdYylHrXFDXgE_t0iYANd4bpyFgosrPrDQs23WeFkC3D7B4vMuLOI1rzwse4CgGd0ZxvQ2VqGlUDvWSZdIQlaWm_sTo79RESIlUueXEyr4lL6iyFVR0Td-1JGBWVnLyfx6-yIbzL9k6OgE"
+        },
+        {
+            "position": 6,
+            "title": "OFICINA MECANICA DO RATINHO",
+            "place_id": "ChIJGx79b-4xxpQROj_Jn4eoY20",
+            "data_id": "0x94c631ee6ffd1e1b:0x6d63a8879fc93f3a",
+            "data_cid": "7882329073283317562",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x94c631ee6ffd1e1b%3A0x6d63a8879fc93f3a&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x94c631ee6ffd1e1b%3A0x6d63a8879fc93f3a&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+                "latitude": -22.7568247,
+                "longitude": -47.6382325
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJGx79b-4xxpQROj_Jn4eoY20",
+            "provider_id": "/g/11s8zc5m9k",
+            "rating": 4.4,
+            "reviews": 14,
+            "type": "Auto repair shop",
+            "types": [
+                "Auto repair shop"
+            ],
+            "address": "R. Mário Sturion, 138 - Jardim Brasil, Piracicaba - SP, 13424-780, Brazil",
+            "country": "Brazil",
+            "open_state": "Closed · Opens 7:30 AM Thu",
+            "hours": "Closed · Opens 7:30 AM Thu",
+            "operating_hours": {
+                "wednesday": "7:30–11:30 AM, 1–6 PM",
+                "thursday": "7:30–11:30 AM, 1–6 PM",
+                "friday": "7:30–11:30 AM, 1–6 PM",
+                "saturday": "Closed",
+                "sunday": "Closed",
+                "monday": "7:30–11:30 AM, 1–6 PM",
+                "tuesday": "7:30–11:30 AM, 1–6 PM"
+            },
+            "phone": "+55 19 3411-4677",
+            "extensions": [
+                {
+                    "accessibility": [
+                        "Wheelchair accessible entrance",
+                        "Wheelchair accessible parking lot"
+                    ]
+                }
+            ],
+            "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmNjsGDvhrslef4Vn5vWSYKzhTPtsY1zLAAsM82169XZyJ0w8BOWh4-sy3TtyewUiyiic8_M0U0PBFWzjbAYg4toadZNKiMc528z7w4pGgkk1j7ZUMUrkiePPqAH4vx824DS_-FN=w1000-h1000-c-n",
+            "serpapi_thumbnail": "https://serpapi.com/images/url/3h8rw3icHcRRboIwGADgE1UK1llNfCgaXeZAEkUGL0a7ri0gRf4KwgU9g7cx2ffwvZ7K2hrmjlOq8UgaI0txB9FwU1lR2RE3V0c2ZwDEwWHLti6vYQ6bVasaKMUfOVaTNtmn20EdIgupO3wzBgH13I_ZT9Z_4Y76u0QRBP34YHvRxbrXmtNTgGMc-etkyC8slcSa828WbnXAJx4dph2pN7Io3HyaxUHcFFpE0Y19kvZBPbLan9A6XHQuxhip_zmq3u85RRs"
+        },
+        {
+            "position": 7,
+            "title": "Infinity Service - Car Motorcycle",
+            "place_id": "ChIJmejCzngxxpQRcgaEB2P1n_Q",
+            "data_id": "0x94c63178cec2e899:0xf49ff56307840672",
+            "data_cid": "17627077272228071026",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x94c63178cec2e899%3A0xf49ff56307840672&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x94c63178cec2e899%3A0xf49ff56307840672&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+                "latitude": -22.7491251,
+                "longitude": -47.5996424
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJmejCzngxxpQRcgaEB2P1n_Q",
+            "provider_id": "/g/11mw7rlfrf",
+            "rating": 4.8,
+            "reviews": 56,
+            "type": "Auto repair shop",
+            "types": [
+                "Auto repair shop",
+                "Car repair and maintenance service",
+                "Motorcycle repair shop"
+            ],
+            "address": "Rua Hibisco, 330 - Bairro Santa Inês, Piracicaba - SP, 13401-410, Brazil",
+            "country": "Brazil",
+            "open_state": "Closed · Opens 8 AM Thu",
+            "hours": "Closed · Opens 8 AM Thu",
+            "operating_hours": {
+                "wednesday": "8 AM–6 PM",
+                "thursday": "8 AM–6 PM",
+                "friday": "8 AM–6 PM",
+                "saturday": "Closed",
+                "sunday": "Closed",
+                "monday": "8 AM–6 PM",
+                "tuesday": "8 AM–6 PM"
+            },
+            "phone": "+55 19 3374-4434",
+            "website": "https://linktr.ee/INFINITY.SERVICE",
+            "extensions": [
+                {
+                    "accessibility": [
+                        "Wheelchair accessible entrance",
+                        "Wheelchair accessible parking lot"
+                    ]
+                }
+            ],
+            "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmMxXo2ZFeT8YnAJqa8Dxwa8nDJh8QTYxydQCBFsB0IJiuCCSwSPCZlAnTVd7H--UDQsa3dqoGXUkUTGa2Goxus-XyA5yZJZt2I0ZXrqd6AnyWU8R0pB3ptSzOx30vfWwdPaB8Ai=w1000-h1000-c-n",
+            "serpapi_thumbnail": "https://serpapi.com/images/url/e8EzrXicHcRRDoIgAADQE5Gkq1hbH4jLdGtlahp_TExdBiqY2AU7Q7dp632876fWulNby2prZ1FJWbXlqMqhkEKXQi8K-bSqgSkFCmVh8ura59Hk0qb7MkE3gcOeIc9MDAkvrFGU3MzMI-LulQuDsBkJiaf4TGiLRXLlmwMAqRcp5vBe-nn6SBOf2b40owL5jFczDam2A0jzoedrLOYsRRfYuU6n4_fJOPB1zyZ-Zi7CzW5aQghB_b8A4gejokUA"
+        },
+        {
+            "position": 8,
+            "title": "Centro Automotivo Piracicaba",
+            "place_id": "ChIJXYCsVfkwxpQRldSOGSbYYVA",
+            "data_id": "0x94c630f955ac805d:0x5061d826198ed495",
+            "data_cid": "5792148253924316309",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x94c630f955ac805d%3A0x5061d826198ed495&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x94c630f955ac805d%3A0x5061d826198ed495&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+                "latitude": -22.743807,
+                "longitude": -47.6501695
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJXYCsVfkwxpQRldSOGSbYYVA",
+            "provider_id": "/g/11c1xhyc2l",
+            "rating": 4.2,
+            "reviews": 14,
+            "type": "Auto repair shop",
+            "types": [
+                "Auto repair shop"
+            ],
+            "address": "R. Fernando Lopes, 619 - Paulicéia, Piracicaba - SP, 13424-060, Brazil",
+            "country": "Brazil",
+            "open_state": "Closed · Opens 8 AM Thu",
+            "hours": "Closed · Opens 8 AM Thu",
+            "operating_hours": {
+                "wednesday": "8 AM–6 PM",
+                "thursday": "8 AM–6 PM",
+                "friday": "8 AM–6 PM",
+                "saturday": "Closed",
+                "sunday": "Closed",
+                "monday": "8 AM–6 PM",
+                "tuesday": "8 AM–6 PM"
+            },
+            "phone": "+55 19 3433-1246",
+            "extensions": [
+                {
+                    "accessibility": [
+                        "Wheelchair accessible entrance",
+                        "Wheelchair accessible parking lot"
+                    ]
+                }
+            ],
+            "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmPFRHLVjqioXkj9YIzthTrl1ABG55VVMXfrirj6qu8OdAf_k8h_LPx1o4lHTKzjC9ReaWCzION2QRVljFhpr7ssbRLQMnklCbQO8siL_pfoT8IO3GJ1w4w2yVi-cpqKv77Xf42jcA=w1000-h1000-c-n",
+            "serpapi_thumbnail": "https://serpapi.com/images/url/6RTaJHicHcRdDoIgAADgE5k_aVpbD-ZWWZbJHNmTM1IRSRAoyxt2hG7T1vfwfT9YKS4Xuk7xdFIzVtPyIUuBWKfKTk0Qu-u1KKTUkNT94Mnp_bQG2wiSvmFZS-aXcFQ4FdT0VxvHgfCQVaIRZNY_vPjmV3nr4Tw6vUxm0226H0kwB2VxDsYwPloJgJSsMReulFcQJYeupcE1iT3ZRDmvWOqF8XSzMwd7sN6w0RDv90_XzSrbIshfDqZhGBr-j7TuB5W5Rl4"
+        },
+        {
+            "position": 9,
+            "title": "Centralcar Oficina",
+            "place_id": "ChIJF9-EcJ0xxpQRA29C3aaNr5s",
+            "data_id": "0x94c6319d7084df17:0x9baf8da6dd426f03",
+            "data_cid": "11218340944619400963",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x94c6319d7084df17%3A0x9baf8da6dd426f03&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x94c6319d7084df17%3A0x9baf8da6dd426f03&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+                "latitude": -22.7103146,
+                "longitude": -47.6449418
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJF9-EcJ0xxpQRA29C3aaNr5s",
+            "provider_id": "/g/11hbqm2ghs",
+            "rating": 4.5,
+            "reviews": 65,
+            "type": "Car repair and maintenance service",
+            "types": [
+                "Car repair and maintenance service"
+            ],
+            "address": "R. Barão de Piracicamirim, 380 - São Dimas, Piracicaba - SP, 13416-005, Brazil",
+            "country": "Brazil",
+            "open_state": "Closed · Opens 8 AM Thu",
+            "hours": "Closed · Opens 8 AM Thu",
+            "operating_hours": {
+                "wednesday": "8 AM–12 PM, 1:30–6 PM",
+                "thursday": "8 AM–12 PM, 1:30–6 PM",
+                "friday": "7 AM–12 PM, 1:30–5 PM",
+                "saturday": "Closed",
+                "sunday": "Closed",
+                "monday": "8 AM–12 PM, 1:30–6 PM",
+                "tuesday": "8 AM–12 PM, 1:30–6 PM"
+            },
+            "phone": "+55 19 97408-4909",
+            "website": "https://www.centralcar.net.br/",
+            "extensions": [
+                {
+                    "accessibility": [
+                        "Wheelchair accessible entrance",
+                        "Wheelchair accessible parking lot"
+                    ]
+                }
+            ],
+            "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLefzyBE1uTesMXpiXCvZO0ULcwRN94OFO7bub2XpnBGU73bEpIjtwF7EoiV7rNgBf_ovWFO9hsFu5QnbKK9sTU3B4bwzOOo859CMALqUwWUKrKxVEz6TGtK5lMa_N_SFzMn8_M=w1000-h1000-c-n",
+            "serpapi_thumbnail": "https://serpapi.com/images/url/9-eDoXicHcRRToMwAADQEzGYjAEmflBCl6WURqWD7IfQpsAUWqRlVQ7oHbyNyd7H-_sdjJn1s-uOg7_rlepHsWqxcCWNkGbH1eT2S6u1w7WbJOBzykW3_YBsv5ZC43q-1en9Sjyac_tWxAcCSchW9lTPEpxo6LNsPn8YC8NM3S7hUvSga9S9giQeNFyDV8kQinVJfXBgdiNERUGc4iT_oraiaEHfl2w7lieDghG3TdG8ww3LqMEvdu95njM85o78B1IdRIA"
+        },
+        {
+            "position": 10,
+            "title": "Oficina Mecânica Gaiotto",
+            "place_id": "ChIJhxL0gD4yxpQRZZS4Ip7y4s8",
+            "data_id": "0x94c6323e80f41287:0xcfe2f29e22b89465",
+            "data_cid": "14979802071588967525",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x94c6323e80f41287%3A0xcfe2f29e22b89465&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x94c6323e80f41287%3A0xcfe2f29e22b89465&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+                "latitude": -22.6785778,
+                "longitude": -47.6285382
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJhxL0gD4yxpQRZZS4Ip7y4s8",
+            "provider_id": "/g/11dzdf9kmg",
+            "rating": 4.7,
+            "reviews": 54,
+            "type": "Auto repair shop",
+            "types": [
+                "Auto repair shop"
+            ],
+            "address": "R. Piquete, 331 - Santa Rosa Ipes, Piracicaba - SP, 13414-254, Brazil",
+            "country": "Brazil",
+            "open_state": "Closed · Opens 8 AM Thu",
+            "hours": "Closed · Opens 8 AM Thu",
+            "operating_hours": {
+                "wednesday": "8 AM–6 PM",
+                "thursday": "8 AM–6 PM",
+                "friday": "8 AM–12 PM",
+                "saturday": "Closed",
+                "sunday": "Closed",
+                "monday": "8 AM–6 PM",
+                "tuesday": "8 AM–6 PM"
+            },
+            "phone": "+55 19 99269-7030",
+            "website": "https://pt-br.facebook.com/oficinaespecializadapeugeot/",
+            "extensions": [
+                {
+                    "accessibility": [
+                        "Wheelchair accessible entrance",
+                        "Wheelchair accessible parking lot"
+                    ]
+                }
+            ],
+            "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmMosOApj0uraVz69j16kjyF652TpPzgbBSvPDYqKXtD4JHCQ2FCQKOkPofAGWwp5Iy8A3yL_0AHzc5CtPUpXII0aeitPbhlgeOKR5OZR6ywgrVlxdsdPj5aiek4ITfEg2E-eLU=w1000-h1000-c-n",
+            "serpapi_thumbnail": "https://serpapi.com/images/url/YHb2FHicHcTdFoEwAADgJ0oT6-AcF1N-EqchiRsnM-tn2rSRekDv4G2c47v4vp9Ua6lGpsnTXocJwTh9KloRUWpa6g4Rd5NViVIGUSZyXpLf10IFSObgWSVRaw_zrl3kzcyGVihxyy6T3Qu7x4cfa7e_XDgba-Zs_KDA4obmh1pCrxmgXrM6A7RoCXQ03svY80BCM40vKWc08LcwOG3tpmZVxN9XdcU5TDJa9L3wNmXW1KCr_bjuAgCM9D8xyh9mckTU"
+        },
+        {
+            "position": 11,
+            "title": "OFICINA EM PIRACICABA - VIPLUB CENTRO AUTOMOTIVO",
+            "place_id": "ChIJKfLAgs0xxpQRCIjZbRlB7os",
+            "data_id": "0x94c631cd82c0f229:0x8bee41196dd98808",
+            "data_cid": "10083068193202079752",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x94c631cd82c0f229%3A0x8bee41196dd98808&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x94c631cd82c0f229%3A0x8bee41196dd98808&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+                "latitude": -22.743978,
+                "longitude": -47.6230306
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJKfLAgs0xxpQRCIjZbRlB7os",
+            "provider_id": "/g/11rwn6fy5k",
+            "rating": 4.6,
+            "reviews": 149,
+            "type": "Auto repair shop",
+            "types": [
+                "Auto repair shop",
+                "Oil change service",
+                "Tire shop",
+                "Wheel alignment service"
+            ],
+            "address": "Av. Pompéia, 987 - Piracicamirim, Piracicaba - SP, 13420-557, Brazil",
+            "country": "Brazil",
+            "open_state": "Closed · Opens 8 AM Thu",
+            "hours": "Closed · Opens 8 AM Thu",
+            "operating_hours": {
+                "wednesday": "8 AM–6 PM",
+                "thursday": "8 AM–6 PM",
+                "friday": "8 AM–6 PM",
+                "saturday": "8 AM–12 PM",
+                "sunday": "Closed",
+                "monday": "Closed",
+                "tuesday": "8 AM–6 PM"
+            },
+            "phone": "+55 19 3426-1264",
+            "extensions": [
+                {
+                    "accessibility": [
+                        "Wheelchair accessible entrance",
+                        "Wheelchair accessible parking lot",
+                        "Wheelchair accessible restroom"
+                    ]
+                }
+            ],
+            "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLeRwncoIAV-GpAzVuzk4b92oZAe5b07CQ4awgnxxnvLIMNu5uA584YTn4VzhYTQf1x_m0jAazlw1Fqy6TsEx64-RRiqLQc-u_8GSO65rTKHRZwUQ1ljtxGLR9JED9qGUDbUbjEmj5WOZjcB=w1000-h1000-c-n",
+            "serpapi_thumbnail": "https://serpapi.com/images/url/GQyNVnicHcTBToMwAADQL-oo2uIw8dBtDKfoQgXMuCzQVLCDdtDWVn7Ss39j4ju835_emKu-D4Khv111SnUDt5rPTEnDpVkxNQbd3GgNmA4I2VzGjFMnmTqQCqRXslR2uaA2vlE14biFd9scNa6T3suv7PDyarEleI1OhUTV0p-K_CP05xEK0iyDC_fTd1ToxEcIUPo5ZTkD9rxO344RnovnR1q7Mg8HYXya0fgp2cVTWu7ashXJKPD7sRZs8-BCCCHo_2dA_gHW5kda"
+        },
+        {
+            "position": 12,
+            "title": "COXINHA RODAS",
+            "place_id": "ChIJ2Zqh2AMxxpQR9pN5EsEJXqk",
+            "data_id": "0x94c63103d8a19ad9:0xa95e09c1127993f6",
+            "data_cid": "12204202765063918582",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x94c63103d8a19ad9%3A0xa95e09c1127993f6&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x94c63103d8a19ad9%3A0xa95e09c1127993f6&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+                "latitude": -22.7321752,
+                "longitude": -47.6492158
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ2Zqh2AMxxpQR9pN5EsEJXqk",
+            "provider_id": "/g/1tl0yfz6",
+            "rating": 4.8,
+            "reviews": 113,
+            "type": "Motorcycle repair shop",
+            "types": [
+                "Motorcycle repair shop"
+            ],
+            "address": "Av. Armando de Salles Oliveira, 2458 - Centro, Piracicaba - SP, 13400-010, Brazil",
+            "country": "Brazil",
+            "open_state": "Closed · Opens 8 AM Thu",
+            "hours": "Closed · Opens 8 AM Thu",
+            "operating_hours": {
+                "wednesday": "8 AM–6 PM",
+                "thursday": "8 AM–6 PM",
+                "friday": "8 AM–6 PM",
+                "saturday": "8 AM–12 PM",
+                "sunday": "Closed",
+                "monday": "8 AM–6 PM",
+                "tuesday": "8 AM–6 PM"
+            },
+            "phone": "+55 19 97401-6649",
+            "website": "https://m.facebook.com/coxinha.rodas?locale2=pt_BR",
+            "extensions": [
+                {
+                    "accessibility": [
+                        "Wheelchair accessible entrance"
+                    ]
+                }
+            ],
+            "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmN5KhkEKYF4oI2-hLVgZpEUrVbRN75tiEJtONbr3WcoIK7p042bAzSy7TbeWHNzXTuztbEfzzkYqQ0pT-nq2YzKLctTpvCCyriJlhI1EtuMfNNQVNLExQLlQHvw-dU9xNmIKI3Y=w1000-h1000-c-n",
+            "serpapi_thumbnail": "https://serpapi.com/images/url/nakRhHicHcRRboIwGADgE1UqaMhMfDCkxlpWgyIO39YOqbHQ2v6g9oKeYbdZsu_h-30rAOsXUaRVMmmNaXUz-MZJ00PTw0SaLmrdt_dI-miVjVZ3fM7UjbB6PTM0Riqv2rMlR1eJPU_ncCVb2HHhkpM0lKUWz2KxCodXWormtOHhqxwCCHIJ4VbfC2xL1N_jOrBcQmnHLHu561YrOiUwfF44Lyqek2eR62IzPtDP8ePJO8poUi8fU4wxUv9L1P8Bwu5Fvw"
+        },
+        {
+            "position": 13,
+            "title": "Centro Automotivo Porto Serviço Vila Rezende",
+            "place_id": "ChIJOxJJ-t8zxpQRRu62hJswUUg",
+            "data_id": "0x94c633dffa49123b:0x4851309b84b6ee46",
+            "data_cid": "5210999688349019718",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x94c633dffa49123b%3A0x4851309b84b6ee46&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x94c633dffa49123b%3A0x4851309b84b6ee46&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+                "latitude": -22.7045341,
+                "longitude": -47.6646673
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJOxJJ-t8zxpQRRu62hJswUUg",
+            "provider_id": "/g/11gbk2whqt",
+            "rating": 4.8,
+            "reviews": 228,
+            "type": "Auto repair shop",
+            "types": [
+                "Auto repair shop",
+                "Auto spring shop",
+                "Auto tune up service",
+                "Brake shop",
+                "Car battery store",
+                "Car repair and maintenance service",
+                "Mechanic",
+                "Oil change service",
+                "Wheel alignment service"
+            ],
+            "address": "Av. Dr. João Teodoro, 1384 - Vila Rezende, Piracicaba - SP, 13405-240, Brazil",
+            "country": "Brazil",
+            "open_state": "Closed · Opens 7:30 AM Thu",
+            "hours": "Closed · Opens 7:30 AM Thu",
+            "operating_hours": {
+                "wednesday": "7:30 AM–6 PM",
+                "thursday": "7:30 AM–6 PM",
+                "friday": "7:30 AM–6 PM",
+                "saturday": "Closed",
+                "sunday": "Closed",
+                "monday": "7:30 AM–6 PM",
+                "tuesday": "7:30 AM–6 PM"
+            },
+            "phone": "+55 19 3374-2943",
+            "website": "https://www.portoseguro.com.br/centro-automotivo/oficinas/208?utm_source=google&utm_medium=maps&utm_campaign=lbm_208",
+            "extensions": [
+                {
+                    "accessibility": [
+                        "Wheelchair accessible entrance",
+                        "Wheelchair accessible parking lot",
+                        "Wheelchair accessible restroom"
+                    ]
+                }
+            ],
+            "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmPXr-pE7AVLP7dM1IWFKP3QdFaZLX1SpdjzAJ68D86oyJOXPaRncOIfYToxOgLUMzmLan2hm2vo8CH_nu3a5TCN1gArVoiGxCMPKFoYxAagXBp2ZHyTXu8pTJqeuubdHicGDEpw=w1000-h1000-c-n",
+            "serpapi_thumbnail": "https://serpapi.com/images/url/f5w2bXicHcTdboIwGADQJ0L-IhKTXVQUEUGqohZvlq6w4gL9OkoVfME9w97GxHNx_v_qvpdqbppN7U44AG8qraqOgegr0U8YtCbvqFIGUyYK7rJpMekMuZqhc4JnZWpvLuEWu_sypNeE2EdZ_jxR7PlL34MxzgimB8GyzXeRw5Dx5JQ-24QKp26dO_hB9Cm0S6d5sLM56s5wWw9BirchFAOinCykc43GnGhf5vFvpfVXGd3YermSj4-HbVmWUb9nhngBXdBFKg"
+        },
+        {
+            "position": 14,
+            "title": "CLP Centro Automotivo",
+            "place_id": "ChIJhb-Xvng1xpQRH4tNTH0RUn4",
+            "data_id": "0x94c63578be97bf85:0x7e52117d4c4d8b1f",
+            "data_cid": "9102357026717928223",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x94c63578be97bf85%3A0x7e52117d4c4d8b1f&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x94c63578be97bf85%3A0x7e52117d4c4d8b1f&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+                "latitude": -22.6817226,
+                "longitude": -47.6965942
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJhb-Xvng1xpQRH4tNTH0RUn4",
+            "provider_id": "/g/11rtc631ln",
+            "rating": 5,
+            "reviews": 21,
+            "type": "Auto repair shop",
+            "types": [
+                "Auto repair shop"
+            ],
+            "address": "R. Virgínia Pratta Gregolin, 725 - Parque São Matheus, Piracicaba - SP, 13409-217, Brazil",
+            "country": "Brazil",
+            "open_state": "Closed · Opens 8 AM Thu",
+            "hours": "Closed · Opens 8 AM Thu",
+            "operating_hours": {
+                "wednesday": "8 AM–6 PM",
+                "thursday": "8 AM–6 PM",
+                "friday": "8 AM–6 PM",
+                "saturday": "8 AM–12 PM",
+                "sunday": "Closed",
+                "monday": "8 AM–6 PM",
+                "tuesday": "8 AM–6 PM"
+            },
+            "phone": "+55 19 97403-5250",
+            "website": "http://clpcentroautomotivo.com.br/",
+            "extensions": [
+                {
+                    "accessibility": [
+                        "Wheelchair accessible entrance",
+                        "Wheelchair accessible parking lot",
+                        "Wheelchair accessible restroom"
+                    ]
+                }
+            ],
+            "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmNigqLoWZluEpoB_CGCgEmeh72TYhzQu_9VKULduwDOnRnLqIvreiNxYClGPhOS1nm9IDGIM6acd4ca4pwTB1aiXxi4LZ285tQTElUtDr5kRWPUefVOT9LjL_R-tLfl4VeaLLj-=w1000-h1000-c-n",
+            "serpapi_thumbnail": "https://serpapi.com/images/url/VwOVzXicHcRNjoIwGADQE1XAQR0mmYUCIcRPUeRH3ZCm1hYtLdIixgt6Bm9j4lu894sb0-o_yxL8Z8SUYoL2mnZESUOlGRHVWKzDWiOirbl_b0WzrtkNVHkUfdiqReVHPgsbymfj7MCf277yimUOp34IEplKuMX3jtbrx8EX0YYnO0c2XhxE8WqKyckl2G2HbOHgev-oXTiOfydmm4UiN0E3uablJqfnIsk8uECVIgNn4RYUA1zQ_-DYto34d4LkByHZRa8"
+        },
+        {
+            "position": 15,
+            "title": "Moraes Auto Center",
+            "place_id": "ChIJGQqAN-MbVgERM8aH_xtgkB8",
+            "data_id": "0x1561be337800a19:0x1f90601bff87c633",
+            "data_cid": "2274423485189572147",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x1561be337800a19%3A0x1f90601bff87c633&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x1561be337800a19%3A0x1f90601bff87c633&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+                "latitude": -22.7290965,
+                "longitude": -47.6479759
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJGQqAN-MbVgERM8aH_xtgkB8",
+            "provider_id": "/g/11b7f0sm8r",
+            "rating": 4.5,
+            "reviews": 139,
+            "type": "Muffler shop",
+            "types": [
+                "Muffler shop",
+                "Auto spring shop",
+                "Brake shop",
+                "Oil change service",
+                "Wheel alignment service"
+            ],
+            "address": "Av. Armando de Salles Oliveira, 2142 - Centro, Piracicaba - SP, 13400-010, Brazil",
+            "country": "Brazil",
+            "open_state": "Closed · Opens 7:30 AM Thu",
+            "hours": "Closed · Opens 7:30 AM Thu",
+            "operating_hours": {
+                "wednesday": "7:30 AM–6 PM",
+                "thursday": "7:30 AM–6 PM",
+                "friday": "7:30 AM–6 PM",
+                "saturday": "7:30 AM–12 PM",
+                "sunday": "Closed",
+                "monday": "7:30 AM–6 PM",
+                "tuesday": "7:30 AM–6 PM"
+            },
+            "phone": "+55 19 3422-3844",
+            "extensions": [
+                {
+                    "accessibility": [
+                        "Wheelchair accessible entrance",
+                        "Wheelchair accessible parking lot",
+                        "Wheelchair accessible restroom"
+                    ]
+                }
+            ],
+            "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmNJRu-6fghMCP8YnS8nOGFGeKL9NsV3uLfeVpTqQFlBg1JvQo5_wYvVH4tvaQletz47xEZCsMeZaFjV54MeTD6dYR_aXbYqgnQfd67lMfXnkL5z0tCTjeEzmw9e37XOAg3Ymbdf2g=w1000-h1000-c-n",
+            "serpapi_thumbnail": "https://serpapi.com/images/url/GcnyvHicHcRLDoIwFADAEyEgPzVxoSgYBRUkhLoxCK8lWlqwBQw39AjexsRZzPdTSdmIharSypgQzgmFTsCr4EwCk5OC1yp55UIohVBXbt_Q-riPO8XGpArd8wyxy4ydfM-HQzA_itToAgxpk7SRR9dE3_cRt24D6tOdKfs8oiBH03lvr64I4Zp7j9QyQ0g2doniW57dUUtYhEvboSHO2DOwRk26yQO2Yz3MwXCy04oYqL6XeEqWg65pmlL9LxT2A0-9Rj4"
+        },
+        {
+            "position": 16,
+            "title": "Dinâmica Auto Center",
+            "place_id": "ChIJxfynoykxxpQRC1SzF4ftLBI",
+            "data_id": "0x94c63129a3a7fcc5:0x122ced8717b3540b",
+            "data_cid": "1309682756131968011",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x94c63129a3a7fcc5%3A0x122ced8717b3540b&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x94c63129a3a7fcc5%3A0x122ced8717b3540b&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+                "latitude": -22.7403606,
+                "longitude": -47.653346199999994
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJxfynoykxxpQRC1SzF4ftLBI",
+            "provider_id": "/g/11k9khngj7",
+            "rating": 4.3,
+            "reviews": 27,
+            "type": "Auto repair shop",
+            "types": [
+                "Auto repair shop"
+            ],
+            "address": "Av. Dona Jane Conceição, 1892 - Jaraguá, Piracicaba - SP, 13403-030, Brazil",
+            "country": "Brazil",
+            "open_state": "Closed · Opens 8 AM Thu",
+            "hours": "Closed · Opens 8 AM Thu",
+            "operating_hours": {
+                "wednesday": "8 AM–6 PM",
+                "thursday": "8 AM–6 PM",
+                "friday": "8 AM–6 PM",
+                "saturday": "8 AM–12 PM",
+                "sunday": "Closed",
+                "monday": "8 AM–6 PM",
+                "tuesday": "8 AM–6 PM"
+            },
+            "phone": "+55 19 99740-1989",
+            "website": "https://www.instagram.com/dinamica_auto_center?igsh=MWZoaXp3aWZrcTZyZA==",
+            "extensions": [
+                {
+                    "accessibility": [
+                        "Wheelchair accessible entrance",
+                        "Wheelchair accessible parking lot",
+                        "Wheelchair accessible seating"
+                    ]
+                }
+            ],
+            "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmONDje8_lkZojUSBQ_iMx8o0HXo0oktBuP7maL0HRPOqlnPKiHUP5rXGp9ub6lKuRo7a9HDEtnM9314-aoSQxoWCKRe-0q6l7MyZYrZOvohODhy_rDXfIfMx2pXl2ezRlwCw9kv=w1000-h1000-c-n",
+            "serpapi_thumbnail": "https://serpapi.com/images/url/ij4iGnicHcRbjoIwFADQFVWqqIiJHwpGJgwDYozID0FSqXLpxba83OCsYXZjMufj_P1yrRu1Ngzg5qRELIG1iskChWZCTwqsjVLmSpFCGVuna6AOf9wnW2VQpfg8n3bH7BEMK6ReghQrvWsjq86_qRdH4QtE5D-8c7SQyaGx29sS_DZGK7c9d69FYJvTOcnxdBzw4vgxI_S1BCsY06tMww556PIxk25y_7oHw6xJYMbeMfROb1fdpp9SSgn_vyDiA9U2Res"
+        },
+        {
+            "position": 17,
+            "title": "Valvocar Mecânica e Troca de Óleo",
+            "place_id": "ChIJiRoWWqExxpQRGyAs66Z3T7o",
+            "data_id": "0x94c631a15a161a89:0xba4f77a6eb2c201b",
+            "data_cid": "13425080573008551963",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x94c631a15a161a89%3A0xba4f77a6eb2c201b&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x94c631a15a161a89%3A0xba4f77a6eb2c201b&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+                "latitude": -22.721355799999998,
+                "longitude": -47.6518705
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJiRoWWqExxpQRGyAs66Z3T7o",
+            "provider_id": "/g/1wnbz371",
+            "rating": 4.7,
+            "reviews": 102,
+            "type": "Oil change service",
+            "types": [
+                "Oil change service",
+                "Car repair and maintenance service",
+                "Electrician"
+            ],
+            "address": "R. do Vergueiro, 701 - Centro, Piracicaba - SP, 13400-770, Brazil",
+            "country": "Brazil",
+            "open_state": "Closed · Opens 8 AM Thu",
+            "hours": "Closed · Opens 8 AM Thu",
+            "operating_hours": {
+                "wednesday": "8 AM–6 PM",
+                "thursday": "8 AM–6 PM",
+                "friday": "8 AM–6 PM",
+                "saturday": "Closed",
+                "sunday": "Closed",
+                "monday": "8 AM–6 PM",
+                "tuesday": "8 AM–6 PM"
+            },
+            "phone": "+55 19 99615-8930",
+            "website": "https://api.whatsapp.com/send?phone=5519961589309",
+            "extensions": [
+                {
+                    "accessibility": [
+                        "Wheelchair accessible entrance",
+                        "Wheelchair accessible parking lot",
+                        "Wheelchair accessible restroom"
+                    ]
+                }
+            ],
+            "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmOBPS2RtN8uhBanuHAp6jzjorZChRSIiclzwgyovHHyXYqhTYSVWRcH59xA3DqFs3sT3ybHJpEUa8PN7sG13ed3qbiWBdpmKOwpg2OasiCd81dSGczZfswZtEILEX9oJ667eP7TbQ=w1000-h1000-c-n",
+            "serpapi_thumbnail": "https://serpapi.com/images/url/tLBmsXicHcRNcoIwGADQEyFgRkBnugBEo3WEAvWHHYQ0wQES-IIIN-wRepvO-Bbv75crJWGj6zVHCyYEq-kAtCeiVbRVCyIanfU5gEZAd_2nrJvQi5JlrM7OwL28HbArrcf8EH3m8zg5VKSeRzaJJ8bT7d7x9J5crjHBq_XLRdtuBwhSNBX4KIPv3InONuxNREvUFdXVK2XzGY6SLcMcKr90zDLZkzn7gTFTweEU3NbiaFk2jey0-PoYTcMwNP6eaO0_wx9GpA"
+        },
+        {
+            "position": 18,
+            "title": "Bacchim Motos",
+            "place_id": "ChIJg-f3DKwxxpQRnvYUufjyt2U",
+            "data_id": "0x94c631ac0cf7e783:0x65b7f2f8b914f69e",
+            "data_cid": "7329594068639741598",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x94c631ac0cf7e783%3A0x65b7f2f8b914f69e&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x94c631ac0cf7e783%3A0x65b7f2f8b914f69e&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+                "latitude": -22.724335,
+                "longitude": -47.64177
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJg-f3DKwxxpQRnvYUufjyt2U",
+            "provider_id": "/g/11rsfvfhsf",
+            "rating": 4.8,
+            "reviews": 17,
+            "type": "Motorcycle repair shop",
+            "types": [
+                "Motorcycle repair shop"
+            ],
+            "address": "R. São João, 529 - Centro, Piracicaba - SP, 13432-009, Brazil",
+            "country": "Brazil",
+            "open_state": "Closed · Opens 8 AM Thu",
+            "hours": "Closed · Opens 8 AM Thu",
+            "operating_hours": {
+                "wednesday": "8 AM–6 PM",
+                "thursday": "8 AM–6 PM",
+                "friday": "8 AM–6 PM",
+                "saturday": "8 AM–1 PM",
+                "sunday": "Closed",
+                "monday": "8 AM–6 PM",
+                "tuesday": "8 AM–6 PM"
+            },
+            "phone": "+55 19 98260-6303",
+            "website": "https://www.instagram.com/bacchimmotos/",
+            "extensions": [
+                {
+                    "accessibility": [
+                        "Wheelchair accessible entrance",
+                        "Wheelchair accessible parking lot"
+                    ]
+                }
+            ],
+            "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmP1NrXYdzm5m4fo57v4-bIej53_7Dn74slv86IqC816kopYFrzNsW3gXh7lwRRZjWWlxJzaKPAe8gdWVEiYCeQnhlXNrKADxFoEMkKcv9VQSN-14_WkZrNREB0eOYamJyNh3lgHQrtPvx_-=w1000-h1000-c-n",
+            "serpapi_thumbnail": "https://serpapi.com/images/url/81I7OHicHcTNboIwAADgJ6pAAGEmOzDETMkqsMSCF8Jq1076g21XGS_peW-zZN_h-30wayez8TzOwhVVinLybYjGSloi7Qor4VE9GAOw8bLcTVxUAdRtd1lELKJPFScuAh97co3DPtnKJDLcpev9LU-D9aimbqcXaFBIW5bwe9Ocrwjx-bAMZZWRlF7QqfjqclJLxluoy2w771TxNpbYPZ3qdwiCqEfjWcOmePHJsRvE4QeykNPXWtvKzT14vge-7wP2PwbyD-eHSAk"
+        },
+        {
+            "position": 19,
+            "title": "Bosch Car Service - Centro Automotivo Bispo",
+            "place_id": "ChIJH5F3ansxxpQRHgDQWFDp7ls",
+            "data_id": "0x94c6317b6a77911f:0x5beee95058d0001e",
+            "data_cid": "6624488633205260318",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x94c6317b6a77911f%3A0x5beee95058d0001e&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x94c6317b6a77911f%3A0x5beee95058d0001e&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+                "latitude": -22.6916865,
+                "longitude": -47.6738566
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJH5F3ansxxpQRHgDQWFDp7ls",
+            "provider_id": "/g/1tcvk68p",
+            "rating": 3.8,
+            "reviews": 200,
+            "type": "Auto repair shop",
+            "types": [
+                "Auto repair shop",
+                "Auto electrical service"
+            ],
+            "address": "R. Milton Cullen Ferguson, 216 - Algodoal, Piracicaba - SP, 13412-227, Brazil",
+            "country": "Brazil",
+            "open_state": "Closed · Opens 8 AM Thu",
+            "hours": "Closed · Opens 8 AM Thu",
+            "operating_hours": {
+                "wednesday": "8 AM–6 PM",
+                "thursday": "8 AM–6 PM",
+                "friday": "8 AM–6 PM",
+                "saturday": "Closed",
+                "sunday": "Closed",
+                "monday": "8 AM–6 PM",
+                "tuesday": "8 AM–6 PM"
+            },
+            "phone": "+55 19 99814-0548",
+            "website": "https://www.oficinaboschservice.com.br/centroautomotivobispo",
+            "extensions": [
+                {
+                    "accessibility": [
+                        "Wheelchair accessible entrance",
+                        "Wheelchair accessible parking lot",
+                        "Wheelchair accessible restroom"
+                    ]
+                }
+            ],
+            "book_online": "https://am.boschcarservice.com/br/pt/agende-agora/?utm_source=Google+Booking+Button&utm_medium=Link&utm_campaign=google_booking_button_01&rwg_token=AE37R_hmynBdyKlmHPr6eCzxuPybUExXQJ2jxyW36A84c2OtZ39x1WHff-o4i-ZoPI_3i59bAgifaTIARvWgXrpLrojDXo2r8A%3D%3D#/booking/classic/landing?spoUuid=d4f92651-9d57-4cd1-9aaa-0fb6ed4d5e5f",
+            "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmNJYRwQ631G_NaWBomvRKWRBgIN-jgmT1d3N7mMiY_xmaC75tlUoKdi3bUxsNl9hk6TrY4CxY5GHxPZYpXIno1d2j1MWgO_3hgq0hKIIOHnncpIMDcGFUrXQyieYNKlrGQfQlKk_iVymQsL=w1000-h1000-c-n",
+            "serpapi_thumbnail": "https://serpapi.com/images/url/7UQo_HicHcTbToMwAADQL2JQu0u2xAfHIquVzpIh1BeCBVu2XrCtG_vKPfs3Jp6H83uXIYx-E8dKwpmwVqj-x_eOWxN6E2bc6li41vuI-_gpvYxKkxdWXOkSgqwhbbW1-lLgqtgKRKKT0EfQQbLS-cCaSbfpahFUaXE3wM9y8kSt5Xl5dGyeTmyR7ae3DzbWyFjQPZxAXolDA6X4TiRG6LA3ho8o3_HsuXQ1vQ09I1i5jH5Rhc_N8H7T1L8-XkGSJJH8n0fmD_WFSI4"
+        },
+        {
+            "position": 20,
+            "title": "MECANICA SÃO LUIZ",
+            "place_id": "ChIJZbA4rPEwxpQRNt8qC6Ks6S8",
+            "data_id": "0x94c630f1ac38b065:0x2fe9aca20b2adf36",
+            "data_cid": "3452480401328234294",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x94c630f1ac38b065%3A0x2fe9aca20b2adf36&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x94c630f1ac38b065%3A0x2fe9aca20b2adf36&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+                "latitude": -22.7521322,
+                "longitude": -47.6533051
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJZbA4rPEwxpQRNt8qC6Ks6S8",
+            "provider_id": "/g/11tnwk2c7x",
+            "rating": 4.8,
+            "reviews": 5,
+            "unclaimed_listing": true,
+            "type": "Auto repair shop",
+            "types": [
+                "Auto repair shop"
+            ],
+            "address": "R. Ingá, 633 - Paulicéia, Piracicaba - SP, 13401-543, Brazil",
+            "country": "Brazil",
+            "extensions": [
+                {
+                    "accessibility": [
+                        "Wheelchair accessible entrance",
+                        "Wheelchair accessible parking lot"
+                    ]
+                }
+            ],
+            "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Kv-BHbmpi8JZLoprl4rnsg&cb_client=search.gws-prod.grass&w=80&h=92&yaw=270.84055&pitch=0&thumbfov=100",
+            "serpapi_thumbnail": "https://serpapi.com/images/url/Kqv-bHicHc3BDcIgFADQbbgVaNPGakJMPBl1Ai-GUoSf0PLDR9B13MptNC7w3uftc0baCUE5WZsL2IrwtIEa1NzF6ILVCMRNXERpRfaPZVo1hD3qNcKszqU5HKcFYTxdLxFT6NNKjpnpZgLYNSuyOhnPXf2JKc7cJU3Eqhol82rbsZeuqttIPvZyGBhCNl5J9n_usahWyi8d3TrS"
+        }
+    ],
+    "serpapi_pagination": {
+        "next": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&ll=%40-22.725%2C-47.6476%2C14z&q=oficinas+mecanicas+no+bairro+Centro+piracicaba&start=61&type=search",
+        "current": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&ll=%40-22.725%2C-47.6476%2C14z&q=oficinas+mecanicas+no+bairro+Centro+piracicaba&start=41&type=search",
+        "previous": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&ll=%40-22.725%2C-47.6476%2C14z&q=oficinas+mecanicas+no+bairro+Centro+piracicaba&start=21&type=search"
+    }
+}

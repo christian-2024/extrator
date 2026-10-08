@@ -1,8 +1,15 @@
 import json
 import csv
 
-with open('centro001.json', 'r', encoding='utf-8') as f:
-    dados = json.load(f)
+arquivos_json = ['centro001.json']
+dados_combinados = []
+
+for arquivo in arquivos_json:
+    with open(arquivo, 'r', encoding='utf-8') as f:
+        dados = json.load(f)
+
+        if isinstance(dados, dict):
+            dados_combinados.extend(dados.get('local_results', []))
 
 # Cria um arquivo CSV pronto para abrir no Excel
 with open('resultado_planilha.csv', 'w', newline='', encoding='utf-8-sig') as f_csv:
