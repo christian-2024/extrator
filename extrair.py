@@ -1,7 +1,14 @@
 import json
 import csv
 
-arquivos_json = ['centro001.json']
+arquivos_json = ['centro001.json', 
+                 'centro002.json', 
+                 'centro003.json', 
+                 'centro004.json',
+                 'centro005.json',
+                 'centro006.json',
+                 'centro007.json',
+                 'centro008.json',]
 dados_combinados = []
 
 for arquivo in arquivos_json:
@@ -11,12 +18,11 @@ for arquivo in arquivos_json:
         if isinstance(dados, dict):
             dados_combinados.extend(dados.get('local_results', []))
 
-# Cria um arquivo CSV pronto para abrir no Excel
 with open('resultado_planilha.csv', 'w', newline='', encoding='utf-8-sig') as f_csv:
-    writer = csv.writer(f_csv, delimiter=';') # Usa ';' que o Excel reconhece como coluna
+    writer = csv.writer(f_csv, delimiter=';')
     writer.writerow(['Nome', 'Telefone']) # Cabeçalho
 
-    for item in dados.get('local_results', []):
+    for item in dados_combinados:
         title = item.get('title', 'N/A')
         phone = item.get('phone', 'N/A')
         
@@ -24,5 +30,4 @@ with open('resultado_planilha.csv', 'w', newline='', encoding='utf-8-sig') as f_
             phone = phone.replace('+55', '').strip()
         
         writer.writerow([title, phone])
-
 print("Planilha 'resultado_planilha.csv' gerada com sucesso!")
